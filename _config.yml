@@ -22,7 +22,7 @@ title: Project Frej
 domain: bthiberg.github.io
 url: https://bthiberg.github.io
 
-
+markdown: kramdown
 # Build settings
 theme: minima
 plugins:
