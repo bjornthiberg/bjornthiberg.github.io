@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Defining the High-Level Architecture"
+title:  "F2: The Architecture"
 date:   2024-06-25 18:05:00 +0200
 category: update
 ---

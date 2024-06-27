@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Purpose, objectives and motivation"
+title:  "F4: The Bigger Picture"
 date:   2024-06-26 14:45:24 +0200
 category: update
 ---

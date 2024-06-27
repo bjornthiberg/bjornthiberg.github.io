@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creating the blog"
+title:  "F1: The Blog"
 date:   2024-06-25 16:44:24 +0200
 category: update
 ---
