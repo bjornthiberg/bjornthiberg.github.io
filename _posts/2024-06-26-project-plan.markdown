@@ -25,15 +25,15 @@ Furthermore, I will not plan the exact number of dates that each part should tak
 3. Design and set up database and ORM (SQLite + EF Core)
 4. Implement Python data transmission from the RPI
 
-**Chunk 3:**: Front-facing backend
+**Chunk 4:**: Front-facing backend
 1. Set up a basic frontend to API requirements
 2. Set up API Endpoint for data retrieval
 
-**Chunk 4:**: Data visualization
+**Chunk 5:**: Data visualization
 1. Create a more sophsiticated front-end for data visualization
 2. Conduct user testing and gather feedback.
 
-**Chunk 5:** Final touches
+**Chunk 6:** Final touches
 1. Move to cloud-hosting platform
 2. Create/improve documentation
 
