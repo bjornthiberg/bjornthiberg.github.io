@@ -2,7 +2,7 @@
 layout: post
 title:  "F5: The Database"
 date:   2024-06-27 12:40:00 +0200
-category: update
+category: frej
 ---
 
 The Python interface which will run on the RPi is up and running. The next consideration is data storage. I'll be using SQL for perforamnce, and it makes a lot of sense to simply mirror the database schema on the RPi and in the more permanent storage location in the backend.

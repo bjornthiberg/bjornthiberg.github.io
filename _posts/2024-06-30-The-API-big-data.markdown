@@ -2,7 +2,7 @@
 layout: post
 title:  "F7: The API, Big Data"
 date:   2024-06-30 14:08:00 +0200
-category: update
+category: frej
 ---
 
 Getting the database with connections up and running was relatively easy, using EF Core and SQLite. Implementing data submission from the RPi also went smoothly. I also set up middleware for authenticating the API key upon POST requests, which seems to be working fine (I might enhance its security later).

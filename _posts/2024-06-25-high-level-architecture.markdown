@@ -2,7 +2,7 @@
 layout: post
 title:  "F2: The Architecture"
 date:   2024-06-25 18:05:00 +0200
-category: update
+category: frej
 ---
 
 Defining a specific architecture before actually starting development is difficult due to my inexperience with the tools in question. However, I need to have something to work with, so I will simply let everything be subject to change. Thinking about the high-level structure causes the project itself to become clearer and creates a natural order in which to proceed.

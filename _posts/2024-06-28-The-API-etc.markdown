@@ -2,7 +2,7 @@
 layout: post
 title:  "F6: The API, etc."
 date:   2024-06-28 11:20:00 +0200
-category: update
+category: frej
 ---
 
 The ASP.NET Core application and the first minimal API endpoint is up and running. I had some issues with certificates, but decided to just disable HTTPS when developing locally. I'll use ngnix or some other reverse proxy when hosting later on, and handle encryption there.

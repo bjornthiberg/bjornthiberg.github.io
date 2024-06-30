@@ -2,7 +2,7 @@
 layout: post
 title:  "F1: The Blog"
 date:   2024-06-25 16:44:24 +0200
-category: update
+category: frej
 ---
 I have set up the Jekyll site for the blog I will use to detail this small project.
 

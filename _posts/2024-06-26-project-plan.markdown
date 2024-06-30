@@ -2,7 +2,7 @@
 layout: post
 title:  "F4: The Plan"
 date:   2024-06-26 16:15:24 +0200
-category: update
+category: frej
 ---
 
 For this project, I am going to use "sprints". Well, not really, as agile development does not really make sense for a solo developer. However, it does make sense to divide the project into chunks in which the first couple of chunks are more fine-grained and the later stages are more TBD.
