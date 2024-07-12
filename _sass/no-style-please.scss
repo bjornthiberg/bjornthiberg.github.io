@@ -1,0 +1,306 @@
+// -------------- THEME SWITCHER -------------- //
+@mixin dark-appearance {
+    filter: invert(1);
+
+    img {
+        filter: invert(1);
+
+        &.ioda {
+            filter: invert(0);
+        }
+    }
+}
+
+body[a="dark"] {
+    @include dark-appearance;
+}
+
+
+@media (prefers-color-scheme: dark) {
+    body[a="auto"] {
+        @include dark-appearance;
+    }
+}
+
+// -------------------------------------------- //
+
+// bg color is also needed in html in order to
+// block body's background propagation
+// see: https://stackoverflow.com/a/61265706
+html,
+body {
+    background: white;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    color: black;
+    font-family: monospace;
+    font-size: 16px;
+    line-height: 1.4;
+    margin: 0;
+    min-height: 100%;
+    overflow-wrap: break-word;
+}
+
+.wrapper {
+    width: fit-content;
+    max-width: 640px;
+    margin: 4rem auto;
+    padding: 0 1rem;
+}
+
+.post-meta {
+    text-align: right;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-top: 3rem;
+}
+
+hr {
+    margin: 2rem 0;
+}
+
+p {
+    margin: 1rem 0;
+}
+
+li {
+    margin: 0.4rem 0;
+}
+
+*:target {
+    background: yellow;
+}
+
+.w {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 4rem 2rem;
+}
+
+hr {
+    text-align: center;
+    border: 0;
+
+    &:before {
+        content: '/////'
+    }
+
+    &:after {
+        content: attr(data-content) '/////'
+    }
+}
+
+table {
+    width: 100%;
+}
+
+table,
+th,
+td {
+    border: thin solid black;
+    border-collapse: collapse;
+    padding: 0.4rem;
+}
+
+/* make code font smaller relative to standard text */
+code {
+    font-size: 0.9em;
+    background: #f8f8f8;
+}
+
+div.highlighter-rouge code {
+    display: block;
+    overflow-x: auto;
+    white-space: pre-wrap;
+    padding: 1rem;
+}
+
+blockquote {
+    font-style: italic;
+    border: thin solid black;
+    padding: 1rem;
+
+    p {
+        margin: 0;
+    }
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+footer {
+    height: 40px;
+    /* Adjust based on your footer's actual height */
+    text-align: center;
+    width: 100%;
+    position: relative;
+    margin-top: -40px;
+    /* Negative margin equal to the footer's height */
+    clear: both;
+}
+
+/* syntax highlighting from rouge */
+.highlight table td {
+    padding: 5px;
+}
+
+.highlight table pre {
+    margin: 0;
+}
+
+.highlight,
+.highlight .w {
+    color: #586e75;
+}
+
+.highlight .err {
+    color: #002b36;
+    background-color: #dc322f;
+}
+
+.highlight .c,
+.highlight .ch,
+.highlight .cd,
+.highlight .cm,
+.highlight .cpf,
+.highlight .c1,
+.highlight .cs {
+    color: #657b83;
+}
+
+.highlight .cp {
+    color: #b58900;
+}
+
+.highlight .nt {
+    color: #b58900;
+}
+
+.highlight .o,
+.highlight .ow {
+    color: #93a1a1;
+}
+
+.highlight .p,
+.highlight .pi {
+    color: #93a1a1;
+}
+
+.highlight .gi {
+    color: #859900;
+}
+
+.highlight .gd {
+    color: #dc322f;
+}
+
+.highlight .gh {
+    color: #268bd2;
+    background-color: #002b36;
+    font-weight: bold;
+}
+
+.highlight .ge {
+    font-style: italic;
+}
+
+.highlight .ges {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.highlight .gs {
+    font-weight: bold;
+}
+
+.highlight .k,
+.highlight .kn,
+.highlight .kp,
+.highlight .kr,
+.highlight .kv {
+    color: #6c71c4;
+}
+
+.highlight .kc {
+    color: #cb4b16;
+}
+
+.highlight .kt {
+    color: #cb4b16;
+}
+
+.highlight .kd {
+    color: #cb4b16;
+}
+
+.highlight .s,
+.highlight .sb,
+.highlight .sc,
+.highlight .dl,
+.highlight .sd,
+.highlight .s2,
+.highlight .sh,
+.highlight .sx,
+.highlight .s1 {
+    color: #859900;
+}
+
+.highlight .sa {
+    color: #6c71c4;
+}
+
+.highlight .sr {
+    color: #2aa198;
+}
+
+.highlight .si {
+    color: #d33682;
+}
+
+.highlight .se {
+    color: #d33682;
+}
+
+.highlight .nn {
+    color: #b58900;
+}
+
+.highlight .nc {
+    color: #b58900;
+}
+
+.highlight .no {
+    color: #b58900;
+}
+
+.highlight .na {
+    color: #268bd2;
+}
+
+.highlight .m,
+.highlight .mb,
+.highlight .mf,
+.highlight .mh,
+.highlight .mi,
+.highlight .il,
+.highlight .mo,
+.highlight .mx {
+    color: #859900;
+}
+
+.highlight .ss {
+    color: #859900;
+}

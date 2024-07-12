@@ -1,0 +1,16 @@
+entries:
+  - title: info
+    url: false
+    entries:
+      - title: GitHub profile
+        url: https://github.com/bjornthiberg
+
+  - title: projects
+    url: false  
+    entries:
+      - title: Project Frej
+        url: https://thiberg.dev/project_frej     
+  
+  - title: posts
+    url: false
+    post_list: true
