@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "H1: Preparing To Move Home(lab)"
+title:  "lab1: preparing to move home(lab)"
 date:   2024-07-30 11:00:00 +0200
 category: homelab
 ---

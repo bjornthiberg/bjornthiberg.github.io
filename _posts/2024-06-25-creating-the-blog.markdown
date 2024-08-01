@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "F1: The Blog"
+title:  "frej1: this blog"
 date:   2024-06-25 16:44:24 +0200
 category: frej
 ---

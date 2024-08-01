@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "F5: The Database"
+title:  "frej5: database"
 date:   2024-06-27 12:40:00 +0200
 category: frej
 ---

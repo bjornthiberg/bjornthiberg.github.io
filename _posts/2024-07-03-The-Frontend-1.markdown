@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "F8: The Frontend, First Steps"
+title:  "frej8: the frontend"
 date:   2024-07-03 10:19:00 +0200
 category: frej
 ---

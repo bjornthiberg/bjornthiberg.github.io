@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "F10: Unit Tests for ASP.NET Core Backend"
+title:  "frej10: some tests for ASP.NET Core backend"
 date:   2024-07-06 17:00:00 +0200
 category: frej
 ---

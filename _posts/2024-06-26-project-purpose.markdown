@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "F3: The Bigger Picture"
+title:  "frej3: project purpose"
 date:   2024-06-26 14:45:24 +0200
 category: frej
 ---

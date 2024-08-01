@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "F12: First User Interview"
+title:  "frej12: user interview"
 date:   2024-07-17 22:06:00 +0200
 category: frej
 ---

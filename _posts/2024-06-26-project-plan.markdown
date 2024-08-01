@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "F4: The Plan"
+title:  "frej4: project plan"
 date:   2024-06-26 16:15:24 +0200
 category: frej
 ---

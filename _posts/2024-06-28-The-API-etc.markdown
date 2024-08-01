@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "F6: The API, etc."
+title:  "frej6: api #1"
 date:   2024-06-28 11:20:00 +0200
 category: frej
 ---

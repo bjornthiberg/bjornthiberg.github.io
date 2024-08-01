@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "F7: The API, Big Data"
+title:  "frej7: api #2"
 date:   2024-06-30 14:08:00 +0200
 category: frej
 ---

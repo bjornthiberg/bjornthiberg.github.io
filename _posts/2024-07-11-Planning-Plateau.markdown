@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "F11: Pushing past the plateau"
+title:  "frej11: pushing past the plateau"
 date:   2024-07-11 21:07:00 +0200
 category: frej
 ---

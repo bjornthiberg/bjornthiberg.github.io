@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "F2: The Architecture"
+title:  "frej2: high-level architecture"
 date:   2024-06-25 18:05:00 +0200
 category: frej
 ---

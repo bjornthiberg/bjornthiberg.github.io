@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "F9: The Full-Stack Web Application"
+title:  "frej9: up and running"
 date:   2024-07-04 23:00:00 +0200
 category: frej
 ---
