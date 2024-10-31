@@ -2,14 +2,18 @@ entries:
   - title: info
     url: false
     entries:
-      - title: GitHub profile
+      - title: GitHub
         url: https://github.com/bjornthiberg
+      - title: LinkedIn
+        url: https://linkedin.com/in/bjorn-thiberg
+      - title: Instagram (drawings)
+        url: https://instagram.com/bjornritar
 
   - title: projects
     url: false  
     entries:
-      - title: Project Frej
-        url: https://thiberg.dev/project_frej     
+      - title: frej (live)
+        url: https://thiberg.dev/project_frej
   
   - title: posts
     url: false
