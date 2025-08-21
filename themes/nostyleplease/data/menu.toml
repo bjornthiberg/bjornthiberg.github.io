@@ -1,0 +1,31 @@
+[[entries]]
+title = "info"
+
+[[entries.entries]]
+title = "GitHub"
+url = "https://github.com/bjornthiberg"
+
+[[entries.entries]]
+title = "LinkedIn"
+url = "https://linkedin.com/in/bjorn-thiberg"
+
+[[entries.entries]]
+title = "Instagram (drawings)"
+url = "https://instagram.com/bjornritar"
+
+
+[[entries]]
+title = "projects"
+
+[[entries.entries]]
+title = "frej (live)"
+url = "https://thiberg.dev/project_frej/"
+
+[[entries]]
+title = "all posts"
+
+[entries.post_list]
+limit = 20
+show_more = true
+show_more_text = "see rest..."
+show_more_url = "posts"
